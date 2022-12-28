@@ -4,4 +4,4 @@ Keywords: Digital humanities, Computational linguistics, Word2Vec, Calculate the
 
 The purpose of this study is to explore the characteristics of color use in Dickens' novels
 
-The corpus consists 12 saga novels by Charles Dickens Project Gutenberg
+The corpus consists 12 novels by Charles Dickens Project Gutenberg
